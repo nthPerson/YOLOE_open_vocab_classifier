@@ -1,0 +1,2 @@
+Create a Unity project in this location to mirror the original development setup. 
+Alternative configurations are possible.
